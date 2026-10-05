@@ -1,0 +1,30 @@
+body{
+    margin-bottom: 100px;
+    text-align: center;
+}
+div{
+    justify-items: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+ul{
+ text-align: center;
+ font-weight: bold;  
+ font-size: 18px; 
+}
+li{
+    text-align: center;
+}
+table
+    {
+        text-align: center;
+        font-weight: bold;
+        font-size: 18px;
+    }
